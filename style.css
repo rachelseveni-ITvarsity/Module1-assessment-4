@@ -1,0 +1,23 @@
+h1{
+    font-family: fantasy;
+    
+}
+
+h2{
+   font-family: monospace: 
+}
+table{
+    font-family: fantasy; 
+    border-collapse: collapse;
+    border-width : 1px;
+    border-style: solid;
+    border-color: cadetblue;
+}
+
+th{
+    font-weight: 400 ; 
+    background-color: cadetblue;
+    color :white;
+  
+}
+
